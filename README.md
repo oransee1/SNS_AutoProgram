@@ -16,7 +16,19 @@ Make.com에서 구현하신 **워크플로우**와 **구글 시트 결과물**�
 
 //=================================
 
+### 파이썬 라이브러리(추가 기능):
 
+1. feedparser (RSS 피드 파싱용)
+
+2. requests, beautifulsoup4 (HTML 웹 크롤링 및 텍스트 정제용)
+
+3. google-generativeai (Gemini API 연동)
+
+4. gspread, oauth2client (구글 시트 연동)
+
+5. python-dotenv (API 키 환경변수 관리)
+
+//=================================
 
 
 
