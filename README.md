@@ -30,8 +30,9 @@ Make.com에서 구현하신 **워크플로우**와 **구글 시트 결과물**�
 
 //=================================
 
+### pip install feedparser requests beautifulsoup4 google-generativeai gspread oauth2client
 
-
+//=================================
 
 
 
